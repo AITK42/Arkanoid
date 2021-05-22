@@ -1,0 +1,7 @@
+D:\IPB\Programação2\TP2.V3\Arkanoid3\Arkanoid3\obj\Debug\Arkanoid3.csprojResolveAssemblyReference.cache
+D:\IPB\Programação2\TP2.V3\Arkanoid3\Arkanoid3\obj\Debug\Arkanoid3.MainForm.resources
+D:\IPB\Programação2\TP2.V3\Arkanoid3\Arkanoid3\obj\Debug\Arkanoid3.csproj.GenerateResource.Cache
+D:\IPB\Programação2\TP2.V3\Arkanoid3\Arkanoid3\bin\Debug\Arkanoid3.exe
+D:\IPB\Programação2\TP2.V3\Arkanoid3\Arkanoid3\bin\Debug\Arkanoid3.pdb
+D:\IPB\Programação2\TP2.V3\Arkanoid3\Arkanoid3\obj\Debug\Arkanoid3.exe
+D:\IPB\Programação2\TP2.V3\Arkanoid3\Arkanoid3\obj\Debug\Arkanoid3.pdb
